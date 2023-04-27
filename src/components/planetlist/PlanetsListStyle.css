@@ -1,0 +1,54 @@
+.planetslist{
+    padding: 50px;
+}
+.card {
+    background-color: #fff;
+    box-shadow: 0 0 5px black;
+    margin: 20px;
+}
+
+.card-image img{
+    width: 249px;
+    height: 230px;
+}
+
+.card1-title , .description{
+    text-align: center;
+    color: black;
+    margin: 0;
+    padding: 4px;
+}
+
+.card-title{
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.description{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.description span{
+    font-weight: normal;
+    padding: 5px;
+}
+
+.home-cards{
+    width: 100%;
+    text-align: center;
+    margin: 0 auto 0;
+}
+
+.home-cards > .card {
+    display: inline-block;
+}
+
+@media screen and (max-width:940px){
+    .card-body{
+        margin: 0 auto 0;
+        align-items: center;
+        justify-content: center;
+    }
+}

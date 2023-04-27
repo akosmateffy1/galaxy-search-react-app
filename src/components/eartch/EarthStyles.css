@@ -1,0 +1,53 @@
+.earth{
+    background-color: black;
+    color: #fff;
+    height: 100vh;
+}
+
+.earth .container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    height: 90vh;
+}
+
+.earth .left{
+    padding: 1rem;
+}
+
+.earth h1{
+    padding: 1rem 0;
+}
+
+.earth .input-container{
+    padding: 1rem 0;
+}
+
+.earth .right{
+    padding: 1rem;
+}
+
+.earth .img-container{
+    width: 100%;
+    display: flex;
+}
+
+.earth img{
+    max-width: 80%;
+    margin: auto;
+    border-radius: 10px;
+}
+
+
+@media screen and (max-width: 940px){
+    .earth{
+        height: 120vh;
+    }
+    .earth img{
+        padding-top: 35px;
+    }
+    .earth .container{
+        grid-template-columns: 1fr;
+        margin: 1rem 1;
+        align-items: center;
+    }
+}
