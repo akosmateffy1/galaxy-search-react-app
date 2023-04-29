@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/galaxy-search-react-app/static/css/main.9aa08bbb.css",
+    "main.js": "/galaxy-search-react-app/static/js/main.383d21bd.js",
+    "static/media/HeroVideo.mp4": "/galaxy-search-react-app/static/media/HeroVideo.ae670ca75f264e9bfd11.mp4",
+    "static/media/HeroPicture.jpg": "/galaxy-search-react-app/static/media/HeroPicture.abdb960c20a5a8d95db3.jpg",
+    "static/media/marsjaro.jpg": "/galaxy-search-react-app/static/media/marsjaro.f9d792ed74a5cce58421.jpg",
+    "static/media/pillars_of_creation.jpg": "/galaxy-search-react-app/static/media/pillars_of_creation.1c5ca9df7e1f203d844b.jpg",
+    "static/media/mercury.png": "/galaxy-search-react-app/static/media/mercury.562d89795a6fd52c4406.png",
+    "static/media/earth.png": "/galaxy-search-react-app/static/media/earth.ec7dd377343456488b42.png",
+    "static/media/mars.png": "/galaxy-search-react-app/static/media/mars.5d15fe1f2f99348817b4.png",
+    "static/media/venus.png": "/galaxy-search-react-app/static/media/venus.920273e7c9fad39434e2.png",
+    "static/media/jupiter.png": "/galaxy-search-react-app/static/media/jupiter.a07794f80f91dfa0d8da.png",
+    "static/media/saturn.png": "/galaxy-search-react-app/static/media/saturn.bb84bd0b6ad70206d4c1.png",
+    "static/media/neptune.png": "/galaxy-search-react-app/static/media/neptune.937038111db9539a6f40.png",
+    "static/media/uranus.png": "/galaxy-search-react-app/static/media/uranus.de09c889c02a1b0ba0c5.png",
+    "index.html": "/galaxy-search-react-app/index.html",
+    "main.9aa08bbb.css.map": "/galaxy-search-react-app/static/css/main.9aa08bbb.css.map",
+    "main.383d21bd.js.map": "/galaxy-search-react-app/static/js/main.383d21bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9aa08bbb.css",
+    "static/js/main.383d21bd.js"
+  ]
+}
